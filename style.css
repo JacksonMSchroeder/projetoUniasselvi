@@ -1,5 +1,10 @@
 
 .topo-amarelo {
+    font-size: 3rem; /* Aumenta consideravelmente o tamanho -TESTE */
+    font-weight: 900; 
+    letter-spacing: -1px;
+    text-transform: uppercase; 
+    margin-bottom: 5px;
     background-color: #FFD600;
     padding: 60px 20px;
     text-align: center;
@@ -8,8 +13,30 @@
  
 .branco-site {
     background-color: #ffffff;
-    padding: 40px 20px;
+    flex: 1; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+}
+.moldura-mapa {
+    width: 100%; /* ocupar toda a largura disponível no branco */
+    max-width: 900px; /* para manter se a tela for muito grnade  */
+    height: 400px; /* alturo 400 ou 300? ~decidir */
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); /*  degradê  */
+    border: 2px solid #FFD600; 
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     text-align: center;
+    padding: 20px; /* espaço interno */
+}
+
+.moldura-mapa strong {
+    color: #333;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
 }
 
 .rodape-preto {
@@ -19,3 +46,5 @@
     padding: 30px;
 }
 
+/* FLEX 1 PARA TORNAR O ESPAÇO DINAMICO, USAR NO BRANCO JÁ QUE VAI SER A ÁREA QUE VOU DESENVOLVER ALGUMA IDEA  */
+/* fazer um mapa interativo, quando passar o mouse em cima do estado aparece os dados de violencia */
