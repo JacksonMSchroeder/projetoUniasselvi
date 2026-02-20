@@ -1,9 +1,16 @@
+/* RESET PADRÃO */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* --- CABEÇALHO --- */
 .topo-amarelo {
     /* Aumenta consideravelmente o tamanho -TESTE */
     font-size: 3rem; 
@@ -17,6 +24,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    position: relative;
 }
 
 .topo-amarelo h1 {
@@ -24,6 +32,7 @@
     font-size: 3rem;
 }
 
+/* Lógica do Logo  */
 .logo-com-legenda {
     display: flex;
     flex-direction: column; 
@@ -38,21 +47,27 @@
 }
 
 .legenda {
-    font-size: 10px;        
+    font-size: 15px;        
     font-weight: bold;
     color: #000;            
     text-transform: uppercase;
     font-family: Arial, sans-serif;
 }
 
+
 .branco-site {
     background-color: #ffffff;
+    /* FLEX 1 PARA TORNAR O ESPAÇO DINAMICO, USAR NO BRANCO JÁ QUE VAI SER A ÁREA QUE VOU DESENVOLVER ALGUMA IDEA  */
     flex: 1; 
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
     padding: 40px 20px;
+}
+
+.intro {
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 .moldura-mapa {
@@ -81,12 +96,72 @@
     margin-bottom: 10px;
 }
 
+/* --- CANAIS DE DENÚNCIA --- */
+.canais-denuncia {
+    width: 100%;
+    max-width: 900px;
+    margin: 40px 0;
+    text-align: center;
+}
+
+.canais-denuncia h3 {
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.grid-denuncia {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap; 
+}
+
+.card-denuncia {
+    background-color: #f9f9f9;
+    border: 2px solid #FFD600; 
+    border-radius: 15px;
+    padding: 20px;
+    width: 260px;
+    transition: transform 0.3s ease;
+}
+
+.card-denuncia:hover {
+    transform: translateY(-5px); 
+}
+
+.card-denuncia h4 {
+    font-size: 1rem;
+    margin-bottom: 10px;
+    color: #000;
+    text-transform: uppercase;
+}
+
+.card-denuncia p {
+    font-size: 1.8rem;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.card-denuncia span {
+    font-size: 0.8rem;
+    color: #666;
+    display: block;
+}
+
+.textos-apoio {
+    text-align: center;
+    margin-top: 20px;
+    color: #444;
+}
+
+/* --- RODAPÉ --- */
 .rodape-preto {
     background-color: #000000;
     color: #ffffff;
     text-align: center;
     padding: 30px;
 }
-
 /* FLEX 1 PARA TORNAR O ESPAÇO DINAMICO, USAR NO BRANCO JÁ QUE VAI SER A ÁREA QUE VOU DESENVOLVER ALGUMA IDEA  */
 /* fazer um mapa interativo, quando passar o mouse em cima do estado aparece os dados de violencia */
