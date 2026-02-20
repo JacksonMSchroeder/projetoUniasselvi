@@ -1,4 +1,4 @@
-/* RESET PADRÃO */
+
 * {
     margin: 0;
     padding: 0;
@@ -150,13 +150,40 @@ body {
     display: block;
 }
 
+.btn-link-denuncia {
+    display: block;           
+    background-color: #27ae60;  
+    color: #ffffff !important; 
+    text-decoration: none;    
+    padding: 15px;            
+    margin-top: 15px;      
+    text-align: center;       
+    transition: background 0.3s; 
+}
+
+
+.btn-emergencia {
+    background-color: #c0392b !important;
+}
+
+
+.btn-mapa {
+    background-color: #2980b9 !important;
+}
+
+
+.btn-link-denuncia:hover, .btn-link-denuncia:active {
+    filter: brightness(1.2);
+    transform: scale(1.02);
+}
+
 .textos-apoio {
     text-align: center;
     margin-top: 20px;
     color: #444;
 }
 
-/* --- RODAPÉ --- */
+
 .rodape-preto {
     background-color: #000000;
     color: #ffffff;
