@@ -27,8 +27,8 @@ Para cumprir as diretrizes do MEC e da Uniasselvi, o projeto utiliza como refere
 | **1 e 2** | Pesquisa Bibliográfica e análise do CMDM Joinville | ✅ Concluído |
 | **3 e 4** | Prototipagem e Especificação de Requisitos | ✅ Concluído |
 | **5 e 6** | Desenvolvimento Frontend e Implementação | 🔄 Em Progresso |
-| **7 e 8** | Testes de Usabilidade e Entrega de Fontes | ⏳ Pendente |
-| **9** | Redação do Paper Acadêmico e Relatório | ⏳ Pendente |
+| **7 e 8** | Testes de Usabilidade e Entrega de Fontes | ✅ Concluído |
+| **9** | Redação do Paper Acadêmico e Relatório | ✅ Concluído |
 
 ## 🛠️ Stack Tecnológica
 * **Linguagens:** HTML5, CSS3 (com foco em Mobile First), JavaScript (ES6+).
@@ -44,3 +44,5 @@ O projeto combate a "coisificação" da infância e da mulher (AZEVEDO & GUERRA,
 **Instituição:** UNIASSELVI - Unidade Saguaçu  - Joinville/SC  
 **Objetivo:** Contribuição social e democratização do acesso à justiça.
 
+[Canal no youtube, utilizado como saída rápida](https://www.youtube.com/@Rir_memes_br) 
+[Site Com o Mapas do DEAM](https://azmina.com.br/projetos/delegacia-da-mulher/)
