@@ -71,13 +71,11 @@ body {
 }
 
 .moldura-mapa {
-    /* ocupar toda a largura disponível no branco */
+    /* precisa ocupar boa parte da largura disponível no branco!! */
     width: 100%; 
-    /* para manter se a tela for muito grnade  */
     max-width: 900px; 
     /* alturo 400 ou 300? ~decidir */
     height: 400px; 
-    /* degradê  */
     background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); 
     border: 2px solid #FFD600; 
     border-radius: 20px;
@@ -86,7 +84,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    /* espaço interno */
+    /* espaço interno !*/
     padding: 20px; 
 }
 
@@ -163,9 +161,50 @@ body {
 
 
 .btn-emergencia {
-    background-color: #c0392b !important;
+    background-color: #ff4d4d; /* Vermelho vibrante */
+    color: white;
+    border: none;
+    padding: 20px;
+    width: 100%; /* Ocupa a largura do main */
+    max-width: 800px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: background 0.3s ease;
+    margin-bottom: 30px; /* Dá respiro para o Mapa abaixo */
 }
 
+.botao-emergencia:hover {
+    background-color: #cc0000; /* vermelho > vermelho escuro */
+}
+
+/* btn flutuante  */
+.btn-saida-rapida {
+    position: fixed;   /* coordenada btn emergencia */
+    top: 20px;         
+    right: 20px;       
+    z-index: 9999;     
+    
+    background-color: #ce2c2c; 
+    color: white !important;
+    border: 2px solid white;
+    padding: 15px 25px;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+    transition: transform 0.2s, background 0.3s;
+    text-decoration: none;
+    text-align: center;
+}
+
+.btn-saida-rapida:hover {
+    background-color: #ff0000;
+    transform: scale(1.1);
+}
 
 .btn-mapa {
     background-color: #2980b9 !important;
