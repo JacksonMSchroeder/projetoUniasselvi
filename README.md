@@ -39,10 +39,8 @@ Para cumprir as diretrizes do MEC e da Uniasselvi, o projeto utiliza como refere
 O projeto combate a "coisificação" da infância e da mulher (AZEVEDO & GUERRA, 1995), reafirmando o papel do acadêmico como agente de transformação social através da tecnologia.
 
 ---
-**Acadêmico:** Jackson M. Schroeder  
-**Instituição:** UNIASSELVI - Joinville/SC  
+**Acadêmico:** Jackson Miranda Schroeder 
+**Curso:** Análise e Desenvolvimento de Sistemas (7225562) 
+**Instituição:** UNIASSELVI - Unidade Saguaçu  - Joinville/SC  
 **Objetivo:** Contribuição social e democratização do acesso à justiça.
 
-✔️ Fazer o Layout
-✔️ Colocar e Definir botões (Emergencia e ligação para policia)
-✔️ hospedar site no vercer 
