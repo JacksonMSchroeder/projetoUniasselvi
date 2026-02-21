@@ -71,11 +71,10 @@ body {
 }
 
 .moldura-mapa {
-    /* precisa ocupar boa parte da largura disponível no branco!! */
     width: 100%; 
     max-width: 900px; 
-    /* alturo 400 ou 300? ~decidir */
-    height: 400px; 
+    /* a altura estava bugando com o height: 400px >< width: 100% !important;,  como eu tinha definido o tamanho do map manualmente antes !!! */
+    min-height: 300px; 
     background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); 
     border: 2px solid #FFD600; 
     border-radius: 20px;
@@ -84,14 +83,82 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    /* espaço interno !*/
-    padding: 20px; 
+    padding: 30px; /* Aumentei um pouco o respiro interno */
+    margin: 20px auto; 
+    overflow: hidden; /* Garante que nada saia dos cantos arredondados */
+}
+
+.texto-inferior {
+
+    width: 100%;
+    max-width: 900px;
+    margin: 20px auto; 
+    text-align: center; 
+    padding: 0 20px;
+
+}.texto-inferior p {
+
+    font-size: 1rem;
+    color: #444;
+    line-height: 1.6;
+    margin: 0 auto;
+
 }
 
 .moldura-mapa strong {
     color: #333;
     font-size: 1.2rem;
     margin-bottom: 10px;
+}
+
+
+/* PARA LIDAR COM O MAPA, ELE TAVA TODO CAGADO O ESPAÇAMENTO*/ 
+.moldura-mapa {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;    
+    width: 100%;
+    max-width: 900px;     
+    margin: 0 auto;         
+    padding: 20px;
+}
+
+/* A div que o JS usa para desenhar o mapa */
+#map {
+    width: 100% !important;  
+    height: auto !important; 
+}
+
+/* para o svg */
+#map svg {
+    width: 100% !important;
+    height: auto !important;
+}
+
+.conscientiacao { 
+    background-color: #fff5f5;
+    border: 1px solid #eea5a5ff;
+    border-radius: 8px; /* testar com 10 */
+    padding: 20px;
+    max-width: 800px; 
+    text-align: center;
+    font-family: sans-serif;
+    margin: 30px auto
+}
+
+.conscientiacao strong {
+    color: #c60909;
+
+}
+
+.conscientiacao .canaldeajuda {
+    display: inline-block;
+    margin-top: 10px;
+    font-weight:bold;
+    background-color: #ed1515;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 20px;
 }
 
 /* --- CANAIS DE DENÚNCIA --- */
