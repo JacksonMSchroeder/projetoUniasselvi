@@ -4,6 +4,8 @@
 ## 🔗 Link do Projeto
 Confira o projeto rodando aqui: [projeto-uniasselvi.vercel.app](https://projeto-uniasselvi.vercel.app)
 
+![Demonstração do Mapa](Animação.gif)
+
 [![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)](#)
 [![License](https://img.shields.io/badge/Licença-Domínio%20Público-blue)](#)
 [![Location](https://img.shields.io/badge/Local-Joinville%2FSC-red)](#)
