@@ -4,11 +4,11 @@
 var simplemaps_countrymap_mapdata={
 
     main_settings: {  
-      mobile_behavior: "yes", 
+    /*  mobile_behavior: "yes", 
       state_as_link: "yes",
       click_anywhere: "yes",
       auto_load: "yes",
-      tooltip_view: "no", 
+      tooltip_view: "no", ---TESTE--- */
     
    //General settings
     width: "responsive", //'700' or 'responsive'
