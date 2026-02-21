@@ -82,144 +82,144 @@ var simplemaps_countrymap_mapdata={
   state_specific: {
     BRAC: {
       name: "Acre",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "2115 casos"
     },
     BRAL: {
       name: "Alagoas",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "6.220 casos"
     },
     BRAM: {
       name: "Amazonas",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "8.541 casos"
     },
     BRAP: {
       name: "Amapá",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "1.832 casos"
     },
     BRBA: {
       name: "Bahia",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "19.865 casos"
     },
     BRCE: {
       name: "Ceará",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "18.520 casos"
     },
     BRDF: {
       name: "Distrito Federal",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "15.633 casos"
     },
     BRES: {
       name: "Espírito Santo",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "8.712 casos"
     },
     BRGO: {
       name: "Goiás",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "16.480 casos"
     },
     BRMA: {
       name: "Maranhão",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "8.910 casos"
     },
     BRMG: {
       name: "Minas Gerais",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "44.580 casos"
     },
     BRMS: {
       name: "Mato Grosso do Sul",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "8.955 casos"
     },
     BRMT: {
       name: "Mato Grosso",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "11.230 casos"
     },
     BRPA: {
       name: "Pará",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "24.215 casos"
     },
     BRPB: {
       name: "Paraíba",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "5.820 casos"
     },
     BRPE: {
       name: "Pernambuco",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "24.215 casos"
     },
     BRPI: {
       name: "Piauí",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "5.940 casos"
     },
     BRPR: {
       name: "Paraná",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "31.280 casos"
     },
     BRRJ: {
       name: "Rio de Janeiro",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "32.190 casos"
     },
     BRRN: {
       name: "Rio Grande do Norte",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "4.560 casos"
     },
     BRRO: {
       name: "Rondônia",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "4.890 casos"
     },
     BRRR: {
       name: "Roraima",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "1.545 casos"
     },
     BRRS: {
       name: "Rio Grande do Sul",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "22.840 casos"
     },
     BRSC: {
       name: "Santa Catarina",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "18.960 casos"
     },
     BRSE: {
       name: "Sergipe",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "3.425 casos"
     },
     BRSP: {
       name: "São Paulo",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "56.450 casos"
     },
     BRTO: {
       name: "Tocantins",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "2.410 casos"
     }
   },
   locations: {
     "0": {
       name: "Brasília",
-      color: "#8b9089",
+      color: "#e4e131",
       description: "15.633 casos",
       lat: "-15.783333",
       lng: "-47.916667"

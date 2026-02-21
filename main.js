@@ -2,6 +2,12 @@
 
 var simplemaps_countrymap_mapdata={
   main_settings: {
+    
+    main_settings: {  
+      mobile_behavior: "yes",
+      click_anywhere: "yes",
+      auto_load: "yes",
+    },
    //General settings
     width: "responsive", //'700' or 'responsive'
     background_color: "#FFFFFF",
@@ -78,111 +84,111 @@ var simplemaps_countrymap_mapdata={
   state_specific: {
     BRAC: {
       name: "Acre",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRAL: {
       name: "Alagoas",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRAM: {
       name: "Amazonas",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRAP: {
       name: "Amapá",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRBA: {
       name: "Bahia",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRCE: {
       name: "Ceará",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRDF: {
       name: "Distrito Federal",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRES: {
       name: "Espírito Santo",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRGO: {
       name: "Goiás",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRMA: {
       name: "Maranhão",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRMG: {
       name: "Minas Gerais",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRMS: {
       name: "Mato Grosso do Sul",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRMT: {
       name: "Mato Grosso",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRPA: {
       name: "Pará",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRPB: {
       name: "Paraíba",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRPE: {
       name: "Pernambuco",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRPI: {
       name: "Piauí",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRPR: {
       name: "Paraná",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRRJ: {
       name: "Rio de Janeiro",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRRN: {
       name: "Rio Grande do Norte",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRRO: {
       name: "Rondônia",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRRR: {
       name: "Roraima",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRRS: {
       name: "Rio Grande do Sul",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRSC: {
       name: "Santa Catarina",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRSE: {
       name: "Sergipe",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRSP: {
       name: "São Paulo",
-      color: "#8b9089"
+      color: "#e9eaa9"
     },
     BRTO: {
       name: "Tocantins",
-      color: "#8b9089"
+      color: "#e9eaa9"
     }
   },
   locations: {
