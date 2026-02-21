@@ -1,6 +1,9 @@
 # projetoUniasselvi
 # 🛡️ Portal de Apoio e Instrução Normativa: Combate à Violência Doméstica
 
+## 🔗 Link do Projeto
+Confira o projeto rodando aqui: [projeto-uniasselvi.vercel.app](https://projeto-uniasselvi.vercel.app)
+
 [![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange)](#)
 [![License](https://img.shields.io/badge/Licen%C3%A7a-Dom%C3%ADnio%20P%C3%BAblico-blue)](#)
 [![Location](https://img.shields.io/badge/Local-Joinville%2FSC-red)](#)
@@ -38,6 +41,13 @@ Para cumprir as diretrizes do MEC e da Uniasselvi, o projeto utiliza como refere
 ## 📝 Fundamentação Teórica
 O projeto combate a "coisificação" da infância e da mulher (AZEVEDO & GUERRA, 1995), reafirmando o papel do acadêmico como agente de transformação social através da tecnologia.
 
+### 🖥️ Design Responsivo
+Este projeto foi desenvolvido aplicando conceitos de **Design Responsivo**, garantindo que a interface seja totalmente funcional e visualmente adaptada para:
+* **Dispositivos Móveis:** Navegação simplificada para smartphones, facilitando o acesso rápido em situações de emergência.
+* **Desktop:** Visualização detalhada de dados e mapas para uma análise mais aprofundada.
+> **Nota:** A responsividade foi um requisito prioritário para garantir que a informação chegue à vítima independentemente do dispositivo utilizado.
+---
+
 ---
 **Acadêmico:** Jackson Miranda Schroeder 
 **Curso:** Análise e Desenvolvimento de Sistemas (7225562) 
@@ -45,4 +55,5 @@ O projeto combate a "coisificação" da infância e da mulher (AZEVEDO & GUERRA,
 **Objetivo:** Contribuição social e democratização do acesso à justiça.
 
 [Canal no youtube, utilizado como saída rápida](https://www.youtube.com/@Rir_memes_br) 
+
 [Site Com o Mapas do DEAM](https://azmina.com.br/projetos/delegacia-da-mulher/)

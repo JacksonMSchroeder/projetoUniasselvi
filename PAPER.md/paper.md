@@ -15,8 +15,6 @@ O desenvolvimento da plataforma foi balizado por diretrizes governamentais e mar
 * **Lei Maria da Penha (Lei nº 11.340/2006):** Utilizada para definir as categorias de violência e as medidas protetivas. [Acesse aqui](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm).
 * **Política Nacional de Enfrentamento à Violência Contra as Mulheres:** Documento base para entender as ações de prevenção e a rede de atendimento. [Acesse aqui](https://www.gov.br/mdh/pt-br/navegue-por-temas/politicas-para-mulheres/arquivo/arquivos-diversos/sev/pacto/documentos/politica-nacional-enfrentamento-a-violencia-versao-final.pdf).
 
-
-
 ## 3. METODOLOGIA TÉCNICA
 A metodologia aplicada seguiu um ciclo de desenvolvimento de software adaptado para a extensão universitária:
 1. **Pesquisa Prescritiva:** Levantamento bibliográfico e análise de dados reais de violência por estado.
@@ -32,8 +30,13 @@ A atividade de extensão cumpriu seu papel de integrar o conhecimento acadêmico
 
 ---
 **Links de Referência utilizados no projeto:**
-- [Planalto - Lei 11.340](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm)
-- [Governo Federal - Política Nacional de Enfrentamento](https://www.gov.br/mdh/pt-br/navegue-por-temas/politicas-para-mulheres/arquivo/arquivos-diversos/sev/pacto/documentos/politica-nacional-enfrentamento-a-violencia-versao-final.pdf)
+
+ [Planalto - Lei 11.340](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm)
+
+ [Governo Federal - Política Nacional de Enfrentamento](https://www.gov.br/mdh/pt-br/navegue-por-temas/politicas-para-mulheres/arquivo/arquivos-diversos/sev/pacto/documentos/politica-nacional-enfrentamento-a-violencia-versao-final.pdf)
+
 [Canal no youtube, utilizado como saída rápida](https://www.youtube.com/@Rir_memes_br)
+
 [Site do gov](https://www.gov.br/mulheres/pt-br/ligue180)
+
 [Site Com o Mapas do DEAM](https://azmina.com.br/projetos/delegacia-da-mulher/)
