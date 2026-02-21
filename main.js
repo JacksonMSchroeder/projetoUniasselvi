@@ -2,12 +2,6 @@
 
 var simplemaps_countrymap_mapdata={
   main_settings: {
-    
-    main_settings: {  
-      mobile_behavior: "yes",
-      click_anywhere: "yes",
-      auto_load: "yes",
-    },
    //General settings
     width: "responsive", //'700' or 'responsive'
     background_color: "#FFFFFF",

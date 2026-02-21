@@ -2,7 +2,14 @@
 //https://simplemaps.com 
 
 var simplemaps_countrymap_mapdata={
-  main_settings: {
+
+    main_settings: {  
+      mobile_behavior: "yes", 
+      state_as_link: "yes",
+      click_anywhere: "yes",
+      auto_load: "yes",
+      tooltip_view: "no", 
+    
    //General settings
     width: "responsive", //'700' or 'responsive'
     background_color: "#FFFFFF",
@@ -82,144 +89,144 @@ var simplemaps_countrymap_mapdata={
   state_specific: {
     BRAC: {
       name: "Acre",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "2115 casos"
     },
     BRAL: {
       name: "Alagoas",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "6.220 casos"
     },
     BRAM: {
       name: "Amazonas",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "8.541 casos"
     },
     BRAP: {
       name: "Amapá",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "1.832 casos"
     },
     BRBA: {
       name: "Bahia",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "19.865 casos"
     },
     BRCE: {
       name: "Ceará",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "18.520 casos"
     },
     BRDF: {
       name: "Distrito Federal",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "15.633 casos"
     },
     BRES: {
       name: "Espírito Santo",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "8.712 casos"
     },
     BRGO: {
       name: "Goiás",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "16.480 casos"
     },
     BRMA: {
       name: "Maranhão",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "8.910 casos"
     },
     BRMG: {
       name: "Minas Gerais",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "44.580 casos"
     },
     BRMS: {
       name: "Mato Grosso do Sul",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "8.955 casos"
     },
     BRMT: {
       name: "Mato Grosso",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "11.230 casos"
     },
     BRPA: {
       name: "Pará",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "24.215 casos"
     },
     BRPB: {
       name: "Paraíba",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "5.820 casos"
     },
     BRPE: {
       name: "Pernambuco",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "24.215 casos"
     },
     BRPI: {
       name: "Piauí",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "5.940 casos"
     },
     BRPR: {
       name: "Paraná",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "31.280 casos"
     },
     BRRJ: {
       name: "Rio de Janeiro",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "32.190 casos"
     },
     BRRN: {
       name: "Rio Grande do Norte",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "4.560 casos"
     },
     BRRO: {
       name: "Rondônia",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "4.890 casos"
     },
     BRRR: {
       name: "Roraima",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "1.545 casos"
     },
     BRRS: {
       name: "Rio Grande do Sul",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "22.840 casos"
     },
     BRSC: {
       name: "Santa Catarina",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "18.960 casos"
     },
     BRSE: {
       name: "Sergipe",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "3.425 casos"
     },
     BRSP: {
       name: "São Paulo",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "56.450 casos"
     },
     BRTO: {
       name: "Tocantins",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "2.410 casos"
     }
   },
   locations: {
     "0": {
       name: "Brasília",
-      color: "#e4e131",
+      color: "#46b53a",
       description: "15.633 casos",
       lat: "-15.783333",
       lng: "-47.916667"
