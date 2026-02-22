@@ -4,7 +4,7 @@
 ## 🔗 Link do Projeto
 Confira o projeto rodando aqui: [projeto-uniasselvi.vercel.app](https://projeto-uniasselvi.vercel.app)
 
-![Demonstração do Site](assets/Animação.gif)
+![Demonstração do Site](assets/Animação2.gif)
 
 
 [![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)](#)
