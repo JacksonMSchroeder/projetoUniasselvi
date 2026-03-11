@@ -6,7 +6,7 @@ Confira o projeto rodando aqui: [projeto-uniasselvi.vercel.app](https://projeto-
 
 ![Demonstração do Site](assets/Animação2.gif)
 
-
+"
 [![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)](#)
 [![License](https://img.shields.io/badge/Licença-Domínio%20Público-blue)](#)
 [![Location](https://img.shields.io/badge/Local-Joinville%2FSC-red)](#)
@@ -21,6 +21,7 @@ Para cumprir as diretrizes do MEC e da Uniasselvi, o projeto utiliza como refere
 * **Órgão:** Conselho Municipal dos Direitos da Mulher (CMDM) - Joinville/SC.
 * **Base Legal:** Lei nº 11.340/2006 (Lei Maria da Penha) e Política Nacional de Enfrentamento à Violência contra as Mulheres.
 * **Público-Alvo:** Comunidade geral de Joinville/SC e rede de assistência social (CRAS/CREAS).
+* **Parceria com instituiçao:** Parken estacionamentos
 
 ## 🚀 Funcionalidades e Diferenciais Técnicos
 1.  **Interface de Apoio Rápido:** Substituição estratégica do termo "Conscientização" por **"Apoio"** no cabeçalho mobile, otimizando a responsividade e a comunicação direta com o usuário (UX Design).
@@ -62,4 +63,6 @@ Este projeto foi desenvolvido aplicando conceitos de **Design Responsivo**, gara
 
 [Site Com o Mapas do DEAM](https://azmina.com.br/projetos/delegacia-da-mulher/)
 
-[Site do mapa interativo](https://simplemaps.com)
+[Site do mapa interativo](https://simplemaps.com)"
+
+[Canal e vídeo utilizado para conscientização](https://www.youtube.com/watch?v=r2jBNTUBdt8)
